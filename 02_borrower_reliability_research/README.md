@@ -10,4 +10,4 @@ The study mainly involves data preprocessing and analysis. <br><br>
 *Pandas, Seaborn*
 
 ### Keywords:
-*#data_preprocessing, #duplicates, #missing_values, #categorization, #decomposition*
+#data_preprocessing, #duplicates, #missing_values, #categorization, #decomposition

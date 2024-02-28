@@ -4,7 +4,7 @@
 The study mainly involves data preprocessing and analysis. <br><br>
 
 ### Business areas:
-*Banking, bank lending*
+*Banking, Bank lending*
 
 ### Used libraries:
 *Pandas, Seaborn*

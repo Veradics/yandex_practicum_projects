@@ -16,4 +16,4 @@ As part of the study, they were tested after preprocessing and baseline examinat
 *Pandas*
 
 ### Keywords:
-#data_preprocessing, #duplicates, #missing_values, #logical_indexing, #grouping, #sorting*
+#data_preprocessing, #duplicates, #missing_values, #logical_indexing, #grouping, #sorting

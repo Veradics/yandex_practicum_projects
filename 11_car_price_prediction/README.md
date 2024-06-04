@@ -1,5 +1,4 @@
 # Car price prediction
-## short description
 
 **The main goal of the project** is to develop a model to predict the market value of a car using historical data that includes vehicle specifications, equipment and prices. 
 

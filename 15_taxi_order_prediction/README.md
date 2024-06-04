@@ -1,5 +1,4 @@
 # Taxi order prediction
-## short description
 
 **The main objective of this project** is to predict the number of cab orders for the next hour in order to attract more drivers during peak periods. The customer has provided historical data on cab orders at airports. 
 

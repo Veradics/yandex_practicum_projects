@@ -12,4 +12,4 @@ The project consists of two parts. The first one includes data preparation and e
 *Python, Pandas, Scikit-learn, Matplotlib*
 
 ### Keywords:
-#data_preprocessing, #histogram, #boxplot, #data_analysis, #machine_learning
+#data_preprocessing, #histogram, #boxplot, #data_analysis, #machine_learning, #decision_tree, #random_forest, #logistic_regression
